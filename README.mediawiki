@@ -31,7 +31,7 @@ Download the archive or clone this repo to where your server software looks
 for files and you should be good to go, 
 as long as PHP is enabled for the directory.
 
-If you would like to access questions from some an address like this:
+If you would like to access questions from an address like this:
 
 <pre>http://example.com/qoftd</pre>
 
