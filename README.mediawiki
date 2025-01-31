@@ -16,3 +16,32 @@
 <dt style="font-weight:bold">License</dt>
 <dd><p>See LICENSE</p></dd>
 </dl>
+
+==Notes==
+
+This application has been tested on PHP 8.4.3 and <strong>should</strong> 
+work with later versions.
+
+<p>Please note that this still a <abbr title="Work in Progress">WIP</abbr>. 
+I still need to implement the right output and test it with outside tools.</p>
+
+===questions===
+
+<ol>
+<li>
+<dl>
+<dt style="font-weight:bold">Why create this application when there are many sites out there that provide this functionality?</dt>
+<dd>
+<p>I created this application because, at the time I wrote it, 
+I streamed to both Twitch and YouTube and I wanted to implement a bot 
+command that would display a question of the day.</p>
+<p>While there are indeed sites out there that present a question of the day 
+and allow users to request questions, they are presented as HTML, 
+which can make it hard to feed back to bots, 
+thereby creating headaches for those that multistream like me.</p>
+<p>After noticing these things, I decided to make my own solution, 
+which would output the question in a format that is easy for bots to grab.</p>
+</dd>
+</dl>
+</li>
+</ol>
