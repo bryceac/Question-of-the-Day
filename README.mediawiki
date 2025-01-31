@@ -74,3 +74,19 @@ Please be aware that if there are new questions added,
 I might not accept them for any reason, 
 though the questions would have to be very uncomfortable for me to 
 outright reject them.
+
+===Support===
+
+As I am not too well experienced with PHP, 
+I am not too sure how much help I can be, but if you need help, email me at the following address:
+
+tonyhawk2100@gmail.com
+
+===Acknowledgements===
+
+I want to thank whoever was responsible for posting the ice breaker questions
+I found on <abbr title="January">Jan</abbr> 2025 at the address below:
+
+https://www.mtu.edu/student-leadership/student-orgs/rso-resources/virtual-resources/icebreakers/
+
+Many of the questions listed in this project came from there to serve as the base set of questions to draw from.
