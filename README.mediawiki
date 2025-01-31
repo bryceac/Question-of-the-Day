@@ -1,9 +1,6 @@
 =Question of the Day=
 
 <dl>
-<dt style="font-weight:bold">Description</dt>
-<dd><p>An application written in PHP to give out random questions each day.</p></dd>
-
 <dt style="font-weight:bold">Version</dt>
 <dd><p>1.0</p></dd>
 
@@ -12,4 +9,10 @@
 
 <dt style="font-weight:bold">Copyright</dt>
 <dd><p>2025</p></dd>
+
+<dt style="font-weight:bold">Description</dt>
+<dd><p>An application written in PHP to give out random questions each day.</p></dd>
+
+<dt style="font-weight:bold">License</dt>
+<dd><p>See LICENSE</p></dd>
 </dl>
