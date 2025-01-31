@@ -6,7 +6,7 @@ include("functions.php");
 $json = file_get_contents("questions.json") ?? "" ;
 
 // create placeholder for log
-$history_json;
+$history_json = "";
 
 // attempt to load parse questions file.
 $questions = json_decode($json, true);
