@@ -7,4 +7,9 @@
 <dt style="font-weight:bold">Version</dt>
 <dd><p>1.0</p></dd>
 
+<dt style="font-weight:bold">Author</dt>
+<dd><p>Bryce Campbell</p></dd>
+
+<dt style="font-weight:bold">Copyright</dt>
+<dd><p>2025</p></dd>
 </dl>
