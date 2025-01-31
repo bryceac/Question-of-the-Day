@@ -2,9 +2,15 @@
 // import functions file, to load some necessary elements, including helper functions.
 include("functions.php");
 
-// load necessary information from files.
+// load necessary information from file.
 $json = file_get_contents("questions.json") ?? "" ;
-$history_json = file_get_contents("history.json") ?? "";
+
+// create placeholder for log
+$history_json;
+
+if (file_exists("history.json")) {
+    $history = file_get_contents("history.json") ?? "";
+}
 
 // attempt to load parse questions file.
 $questions = json_decode($json, true);
