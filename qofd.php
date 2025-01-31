@@ -1,4 +1,5 @@
 <?php
+// import functions file, to load some necessary elements, including helper functions.
 include("functions.php");
 $json = file_get_contents("questions.json") ?? "" ;
 $history_json = file_get_contents("history.json") ?? "";

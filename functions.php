@@ -1,4 +1,5 @@
 <?php
+    // import class for use in reading data stored in logs.
     include("question.php");
 
     function array_key_for_date($date, $array): int|null {
