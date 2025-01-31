@@ -8,13 +8,14 @@ $json = file_get_contents("questions.json") ?? "" ;
 // create placeholder for log
 $history_json;
 
-if (file_exists("history.json")) {
-    $history = file_get_contents("history.json") ?? "";
-}
-
 // attempt to load parse questions file.
 $questions = json_decode($json, true);
 $history;
+
+// attempt to load log if the file exists.
+if (file_exists("history.json")) {
+    $history_json = file_get_contents("history.json") ?? "";
+}
 
 // attempt to parse history, if there is data to be found.
 if (strlen($history_json) == 0) {
