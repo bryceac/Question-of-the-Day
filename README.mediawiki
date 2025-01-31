@@ -1,1 +1,6 @@
 =Question of the Day=
+
+<dl>
+<dt style="font-weight:bold">Description</dt>
+<dd>An application written in PHP to give out random questions each day.</dd>
+</dl>
