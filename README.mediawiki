@@ -59,3 +59,18 @@ which would output the question in a format that is easy for bots to grab.</p>
 </dl>
 </li>
 </ol>
+
+===Contributing===
+
+Seeing as this application works as I intended to, 
+though retrieval from outside sources needs to be checked, 
+there is not much that can be done.
+
+However, if you notice some issues 
+or would like to add questions, 
+feel free to fork this repository and make a pull request.
+
+Please be aware that if there are new questions added, 
+I might not accept them for any reason, 
+though the questions would have to be very uncomfortable for me to 
+outright reject them.
