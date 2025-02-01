@@ -26,7 +26,7 @@ work with later versions.
 
 Download the archive or clone this repo to where your server software looks
 for files and you should be good to go, 
-as long as PHP is enabled for the directory.
+as long as PHP is enabled for the directory and the permissions are right.
 
 If you would like to access questions from an address like this:
 
@@ -35,6 +35,13 @@ If you would like to access questions from an address like this:
 Be sure that you have the server software considers PHP files an index file
 and rename the <strong>qofd.php</strong> to the appropriate name, 
 such as <strong>index.php</strong>.
+
+===Version History===
+
+<dl>
+<dt style="font-weight:bold">1.0</dt>
+<dd>Initial release.</dd>
+</dl>
 
 ===Questions===
 
