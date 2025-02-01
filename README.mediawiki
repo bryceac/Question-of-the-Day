@@ -22,9 +22,6 @@
 This application has been tested on PHP 8.4.3 and <strong>should</strong> 
 work with later versions.
 
-Please note that this still a <abbr title="Work in Progress">WIP</abbr>. 
-I still need to implement the right output and test it with outside tools.
-
 ===Installation===
 
 Download the archive or clone this repo to where your server software looks
